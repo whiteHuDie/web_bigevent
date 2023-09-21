@@ -1,0 +1,11 @@
+http://big-event-api-t.itheima.net/api/reguserr
+难点：自定义校验规则{
+    1.获取layui中的form var form = layui.form
+    
+    2.使用form.verify自定义效验规则
+    //自定义一个叫做pwd的校验规则
+    form.verify({
+        pwd: [/^[\S]{6,12}$/, '密码必须6到12位，且不能出现空格']
+    })
+}
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTcxMjQsInVzZXJuYW1lIjoiYWFhMzIxIiwicGFzc3dvcmQiOiIiLCJuaWNrbmFtZSI6IiIsImVtYWlsIjoiIiwidXNlcl9waWMiOiIiLCJpYXQiOjE2OTUyOTQxODQsImV4cCI6MTY5NTMzMDE4NH0.KTsnxKDrKqtW7KFQU26PN8re07TQRE1jXcHn7VKfITM
