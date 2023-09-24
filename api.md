@@ -23,3 +23,7 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTcxMjQsInVzZXJuYW1lIjoiYWFh
 按需调用，如果成功只调成功函数；失败只调失败函数；但是最终都要调 complete 函数
 ![Alt text](./pictures/image.png)
 ![Alt text](./pictures/image1.png)
+
+## base64 字符串
+
+![Alt text](./pictures/imageImg.png)
