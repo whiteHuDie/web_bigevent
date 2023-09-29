@@ -27,3 +27,5 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTcxMjQsInVzZXJuYW1lIjoiYWFh
 ## base64 字符串
 
 ![Alt text](./pictures/imageImg.png)
+
+template-web 模版渲染页面表格:https://blog.csdn.net/qq_30258957/article/details/82557519
